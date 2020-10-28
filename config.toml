@@ -4,7 +4,7 @@ title = "MetaHX"
 theme = "xmin"
 publishDir = "./docs"
 
-disqusShortname = "metahx"
+disqusShortname = "MetaHX"
 
 [permalinks]
     post = "/post/:year/:month/:day/:slug/"
