@@ -6,23 +6,39 @@
     <description>Recent content in Home on MetaHX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2020 13:50:21 +0800</lastBuildDate><atom:link href="https://metahx.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>mail@example.org (Some Author)</managingEditor>
+    <webMaster>mail@example.org (Some Author)</webMaster><atom:link href="https://metahx.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>example_post</title>
-      <link>https://metahx.github.io/posts/example_post/</link>
-      <pubDate>Wed, 28 Oct 2020 13:50:21 +0800</pubDate>
-      
-      <guid>https://metahx.github.io/posts/example_post/</guid>
-      <description></description>
+      <title>General Reinforcement Learning</title>
+      <link>https://metahx.github.io/posts/reinforcementlearning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>mail@example.org (Some Author)</author>
+      <guid>https://metahx.github.io/posts/reinforcementlearning/</guid>
+      <description>Survey   A Survey on Multi-Task Learning, Yu Zhang (2017)
+  An Overview of Multi-Task Learning in Deep Neural Networks, Sebastian Ruder (2017)
+  Models  MTL Multi-Task Learning as Multi-Objective Optimization, Ozan Sener (2018) [NeurIPS] Pareto MTL Pareto Multi-Task Learning, Xi Lin (2019) [NeurIPS]  </description>
     </item>
     
     <item>
-      <title>About MetaHX</title>
-      <link>https://metahx.github.io/about/</link>
+      <title>Multi-agent Reinforcement Learning</title>
+      <link>https://metahx.github.io/posts/multiagentrl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://metahx.github.io/about/</guid>
-      <description></description>
+      <author>mail@example.org (Some Author)</author>
+      <guid>https://metahx.github.io/posts/multiagentrl/</guid>
+      <description>Survey   A Survey on Multi-Task Learning, Yu Zhang (2017)
+  An Overview of Multi-Task Learning in Deep Neural Networks, Sebastian Ruder (2017)
+  Models  MTL Multi-Task Learning as Multi-Objective Optimization, Ozan Sener (2018) [NeurIPS] Pareto MTL Pareto Multi-Task Learning, Xi Lin (2019) [NeurIPS]  </description>
+    </item>
+    
+    <item>
+      <title>Multi-objective Reinforcement Learning</title>
+      <link>https://metahx.github.io/posts/multiobjectiverl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>mail@example.org (Some Author)</author>
+      <guid>https://metahx.github.io/posts/multiobjectiverl/</guid>
+      <description>Survey   A Survey on Multi-Task Learning, Yu Zhang (2017)
+  An Overview of Multi-Task Learning in Deep Neural Networks, Sebastian Ruder (2017)
+  Models  MTL Multi-Task Learning as Multi-Objective Optimization, Ozan Sener (2018) [NeurIPS] Pareto MTL Pareto Multi-Task Learning, Xi Lin (2019) [NeurIPS]  </description>
     </item>
     
   </channel>

@@ -1,7 +1,5 @@
 ---
 title: Home
 ---
-
-[<img src="https://simpleicons.org/icons/github.svg" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/MetaHX/metahx.github.io)
-
 # MetaHX
+## This website is to share reading materials in Metaheuristic and AI.
